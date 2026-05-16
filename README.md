@@ -57,6 +57,13 @@ The model yields the following performance metrics on the test data:
 
 **Critical Insight:** While the overall Accuracy looks high (86.66%), the **Recall is catastrophically low (1.12%)**. Out of 89 actual churning customers in the test set, the model only successfully caught **1**. This behavior is driven by a severe class imbalance in the underlying dataset (2,850 non-churners vs. 483 churners).
 
-# Author
-- Pereruan Nabaala
-- pereruannabaala@gmail.com
+## Author
+
+**Pereruan Nabalala**
+
+Software Engineer | Machine Learning Enthusiast
+
+GitHub:  
+https://github.com/pereruannabaala
+
+---
